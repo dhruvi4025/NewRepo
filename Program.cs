@@ -71,6 +71,7 @@ Try to find the solution to access the instance methods D1 and D2.
             demo1.D2();
             Console.ReadLine();
             Console.WriteLine("Heloo");
+            Console.WriteLine("Hiii");
 
         }
     }
