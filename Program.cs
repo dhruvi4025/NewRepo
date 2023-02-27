@@ -28,7 +28,9 @@ Try to find the solution to access the instance methods D1 and D2.
         public void D2()
         {
             Console.WriteLine("In Method D2");
+            Console.WriteLine("In method ...");
         }
+
 
         //we have created a private constructor
         private Demo1()
